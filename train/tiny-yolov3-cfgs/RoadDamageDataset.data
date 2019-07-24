@@ -1,0 +1,5 @@
+classes= 6
+train  = build/darknet/x64/data/train.txt
+valid  = build/darknet/x64/data/val.txt
+names = build/darknet/x64/data/RoadDamageDataset.names
+backup = backup/
