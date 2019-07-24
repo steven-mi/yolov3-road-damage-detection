@@ -1,0 +1,7 @@
+*.idea
+__pycache__/
+*.weights
+out.png
+*.h5
+*.tflite
+venv
