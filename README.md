@@ -1,5 +1,5 @@
 # yolov3-road-damage-detection
-![](./github/imgs/preview.png)
+![](./imgs/preview.png)
 
 this repository contains the whole pipeline to train (tiny) yolov3 and deploy it
 
